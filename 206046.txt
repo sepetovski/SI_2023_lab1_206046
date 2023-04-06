@@ -1,0 +1,41 @@
+git init -> Inicializiranje 
+git remote add origin https://github.com/sepetovski/SI_2023_lab1_206046 -> dodavanje na remote repo
+git add . -> Site Untracked da bidat spremni za commit
+git commit -m "Initial commit" 
+git add .
+git commit -m "Add java class"
+git push origin master 
+
+git branch bug1 
+git branch bug2 
+git branch bug3  
+
+git checkout bug1 -> 
+git add .
+git commit -m "Fix wrong loop for reading"
+git checkout bug2
+git add .
+git commit -m "Fix wrong condition in filterOddNumbers"
+git checkout bug3
+git add .
+git commit -m "Fix method sumEvenNumbers"
+
+git push -all -> Sinhronizacija
+
+git checkout master
+
+git merge bug1
+git push --all
+
+git merge bug2
+git push --all
+
+git checkout bug3
+git rebase master 
+
+git checkout master
+git merge bug3
+
+git push --all --force -> Potrebno e koristenje na --force 
+git add .
+git commit -m "Final commit"

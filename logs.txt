@@ -1,0 +1,35 @@
+Author: Damjan Sepetovski <sepetovskidamjan@gmail.com>
+Date:   Thu Apr 6 22:01:41 2023 +0200
+
+    Fix method sumEvenNumbers
+
+commit 4c9ca3bf9d0112b56be5308a7bb837553e6bf9e9
+Merge: 7776d93 91e0c7d
+Author: Damjan Sepetovski <sepetovskidamjan@gmail.com>
+Date:   Thu Apr 6 22:12:40 2023 +0200
+
+    merges?
+
+commit 91e0c7da032c44ef049c40fbbc84aa9df9f86ac8 (origin/bug2, bug2)
+Author: Damjan Sepetovski <sepetovskidamjan@gmail.com>
+Date:   Thu Apr 6 22:00:36 2023 +0200
+
+    Fix wrong condition in filterOddNumbers
+
+commit 7776d9363018c4c395bbd06e3443c8e88ef91779 (origin/bug1, bug1)
+Author: Damjan Sepetovski <sepetovskidamjan@gmail.com>
+Date:   Thu Apr 6 21:58:44 2023 +0200
+
+    Fix wong loop for reading
+
+commit 3b6d28ac886464afe49f09a66d9d6c949bc5bd15
+Author: Damjan Sepetovski <sepetovskidamjan@gmail.com>
+Date:   Thu Apr 6 21:56:22 2023 +0200
+
+    Add java class
+
+commit 028f3abb9013a685ea94f5b07a82d71bb17149e9
+Author: Damjan Sepetovski <sepetovskidamjan@gmail.com>
+Date:   Thu Apr 6 21:53:40 2023 +0200
+
+    Initial commit
